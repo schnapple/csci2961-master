@@ -1,1 +1,1 @@
-printf "Hello Mars"
+printf "Hello world"
