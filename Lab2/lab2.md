@@ -11,6 +11,8 @@
 
 #A free license may not require compliance with the license of a non-free program. Therefore if the other program states that all programs the user is currently running must comply withe the non-free programs license rules.
 
+#If a project doesn't have a specific license then it is considered "all rights reserved".
+
 
 #Gopher fell victim to forking, they used to many options as opposed to settling on one seperate approach. Gopher hired many programmers to start up their project but this was there downfall leading to the forking problem. HTTP got a buy-in from the computer world before Mosaic was released decreasing the number of forking. 
 
