@@ -1,0 +1,3 @@
+/home/ubuntu/step5/MathFunctions/MathFunctions/CMakeFiles/MakeTable.dir
+/home/ubuntu/step5/MathFunctions/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/ubuntu/step5/MathFunctions/CMakeFiles/Tutorial.dir
